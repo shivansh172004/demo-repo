@@ -5,7 +5,8 @@ Hello World!
 
 this is a readme file.
 Adding line.
-!q:
+
+
 
 
 
@@ -13,3 +14,6 @@ Adding line.
 
 
 Adding another line to the file
+
+Make sure you have javascript available
+Run index.html in browser
